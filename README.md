@@ -1,4 +1,4 @@
-videogame
+Dodge the eyes of Big Brother
 =========
 
 This is my first attempt at coding a video game. It's done in Ruby using the Gosu framework.
