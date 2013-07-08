@@ -9,5 +9,8 @@ require 'gosu'
 
 
 Move the hero around with the 4 arrow keys and attempt to dodge the descending eyes of the Thought Police.
+
+Press the Escape key to restart the game if you happen to be caught!
+
 Inspired by the novel 1984.
 
